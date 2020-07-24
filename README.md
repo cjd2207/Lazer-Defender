@@ -9,4 +9,4 @@ Open with Unity Version 2019.3.3f1
 
 Controls: LeftArrow = Left RightArrow = Right, Space = Fire
 
-![](https://github.com/cjd2207/OpenGLScene/blob/master/OpenGLScene.png)
+![](https://github.com/cjd2207/Lazer-Defender-2/blob/master/LazerDefender2.png)
