@@ -4,7 +4,7 @@
 Synopsis
 
 Example of a 2D Shoot 'em up' Game in Unity in C#
-Uses Unity Version 2019.3.3f1 , Display 480x800 Glfw, Assimp and Glm math libraries
+Uses Unity Version 2019.3.3f1 , Display 480x800
 Open with Unity Version 2019.3.3f1
 
 Controls: LeftArrow = Left RightArrow = Right, Space = Fire
